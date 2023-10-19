@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+    header{
+        padding: 0;
+        background-color: orange;
+    }
+    header .right-header{
+        padding: 200rem !important;
+        background-color: yellow !important;
+    }
+} 
